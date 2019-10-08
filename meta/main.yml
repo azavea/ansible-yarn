@@ -12,5 +12,4 @@ galaxy_info:
   categories:
   - development
 dependencies:
-  - {role: "azavea.nodejs" }
-
+  - { role: "azavea.nodejs" }
